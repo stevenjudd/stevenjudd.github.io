@@ -3,8 +3,6 @@ layout: post
 title: My PowerShell Journey
 ---
 
-# My PowerShell Journey
-
 ## The backstory
 
 The first version of Windows I ever used was Windows 2.1 in 1990. The first PC I bought, an IBM PS/2 386SX16, came with Windows 3.0. After graduating in 1992, my first computer job came in 1993 where I worked on a help desk doing phone support, mostly thanks to learning Word and Excel on my (now) Windows 3.1 PS/2 computer. I became a Windows Administrator in 1994, managing System Management Server 1.0 running on Windows NT Server 3.5. I received my MCSE on Windows 3.51 in 1997. To this point in my career I had taken exactly one computer class: Introduction to Computers in Business. In this class I learned the basics of DOS, Lotus123, and dBASE. The reason I mention the above history is it shows that I did not have any formal development or Computer Science background.
