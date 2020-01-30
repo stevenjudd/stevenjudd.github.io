@@ -3,7 +3,7 @@ layout: post
 title: My PowerShell Journey
 ---
 
-In this post I am going to give some details around my introduction to PowerShell and what learning it and my involvement with the community has done for me.
+In this post I am going to give some details around my introduction to PowerShell and what learning PowerShell and my involvement with the PowerShell community has done for me.
 
 ## The backstory
 
