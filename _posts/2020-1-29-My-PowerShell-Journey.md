@@ -31,7 +31,7 @@ In 2012, a couple of coworkers had been working to develop a one day training cl
 
 ## Expanding my world
 
-In 2019 I attended the PowerShell + DevOps Global Summit. It was a great experience to meet with and learn from people that are just as passionate about PowerShell as I am. Not only were they passionate, they were highly skilled and very knowledgeable. Plus, they were friendly and willing to share. The experience inspired me to continue to deepen my knowledge and to get involved with the broader community. I am still ramping up my involvement, one way that I do this is to regularly participate in the PowerShell bridge community on Discord, IRC, and Slack.
+In 2019 I attended the PowerShell + DevOps Global Summit. It was a great experience to meet with and learn from people that are just as passionate about PowerShell as I am. Not only were they passionate, they were highly skilled and very knowledgeable. Plus, they were friendly and willing to share. The experience inspired me to continue to deepen my knowledge and to get involved with the broader community. I am still ramping up my community involvement. One way that I do this is to regularly participate in the PowerShell bridge community on Discord, IRC, and Slack.
 
 ## What did learning PowerShell do for me?
 
