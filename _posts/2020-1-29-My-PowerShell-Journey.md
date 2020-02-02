@@ -25,6 +25,10 @@ I had been using a keyboard shortcut that opened a command window for at least 8
 
 It was still a struggle because I didn't know about objects and why they mattered. PowerShell was simply a replacement for a console window. New commands, same basic results. Also, since it was PowerShell 2, the ISE was not very good. In fact, the three pane application was downright confusing. If you never experienced the ISE for version 2, consider yourself lucky. It was around this time I found the PowerGUI tool. This allowed for much faster script writing, and because it was free I didn't have to justify an expense to purchase a PowerShell editor.
 
+## My first "ah ha!" moment
+
+Since I had been using VBScript and batch files for quite a while, I was still trying to get used to working in PowerShell. I had VBScript examples for handling repetitive actions. One of these actions was sending an email from a script. Since I was converting my work to PowerShell, I needed a way to send email from PowerShell. That's when I found the Send-MailMessage cmdlet. "You mean I only need one command to send email? I don't need multiple lines of code like VBScript?" That alone convinced me that PowerShell was a game changer for how I will get work done going forward.
+
 ## Gaining momentum
 
 In 2012, a couple of coworkers had been working to develop a one day training class to introduce people to PowerShell. I got involved with them and began working to improve the Intro to PowerShell class and materials. They asked me if I would want to help them develop the next class, a PowerShell 201 class, to help take our organization's PowerShell training to more advanced topics. We worked together to decide on the outline of topics to cover and we chose the sections we were going to write. Then we reviewed each others' sections and printed the manuals. We all helped teach the first two-day class in December, 2013. We have since added more material, expanded to a three-day class, and I have been teaching this class about once or twice a year. It is amazing how much you learn when you are teaching.
