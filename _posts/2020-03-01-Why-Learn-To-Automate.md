@@ -3,8 +3,6 @@ layout: post
 title: Why Learn To Automate
 ---
 
-## Why Learn To Automate?
-
 If you are trying to justify to your organization's management that using PowerShell to automate tasks is a worthwile effort,
 look at the following example where I used PowerShell to automate an application deployment task.
 The first table is the actual process and the second table is the value of the automation.
