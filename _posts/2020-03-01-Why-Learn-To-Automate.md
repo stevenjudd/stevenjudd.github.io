@@ -11,7 +11,7 @@ Below is a comparison of the process the Web Application Administrators used to 
 I have anonymized some of the information to make the process more generic:
 
 |Manual|Scripted|
-|---|---|
+|:---|:---|
 |Open Service Request containing the request for deployment|Open Service Request containing the request for deployment|
 |Click on link to open Configuration Management tool (CMTool)|Click on link to open Configuration Management tool (CMTool)|
 |Search the Push ID in the Service Request and click the link|Search the Push ID in the Service Request and click the link|
@@ -42,8 +42,8 @@ This log could be obtained from the manual process, but it would require even 
 The accuracy of and notification from the automated release is its primary value, however it is also anywhere from 5 to 10 minutes faster considering the actions it completes. I wrote the initial version in 2012 and added the logging in 2013.
 Here are the numbers of code deployment releases by year, the estimated time saved in minutes on the low side and high side, and the low dollar cost based on a $50/hour contractor and the high dollar cost based on a $100/hour full time employee (these values are somewhat arbitrary but make the math easy):
 
-|Year|Release Count|Low Time|High Time|Low $|High $
-|---|---|---|---|---|---|
+|Year|ReleaseCount|Low Time|High Time|Low $|High $
+|:---:|---:|---:|---:|---:|---:|
 2013|93|465|930|$387.50 |$1,550.00|
 2014|307|1535|3070|$1,279.17 |$5,116.67|
 2015|724|3620|7240|$3,016.67 |$12,066.67|
