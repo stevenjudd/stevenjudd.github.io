@@ -57,6 +57,7 @@ Year | ReleaseCount | Low Time | High Time | Low $ | High $
 2018 | 445 | 2225 | 4450 | $1,854.17 | $7,416.67
 2019 | 145 | 725 | 1450 | $604.17 | $2,416.67
 Total | 3655 | 18275 | 36550 | $15,229.17 | $60,916.67
+{:.mbtablestyle}
 
 Remember, this chart is an estimation of the time and money saved.
 It does not calculate the time and money lost from any errors from the manual process.
