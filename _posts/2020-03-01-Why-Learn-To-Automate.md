@@ -10,6 +10,9 @@ The first table is the actual process and the second table is the value of the a
 Below is a comparison of the process the Web Application Administrators used to use for deploying a .NET web application to an internal web server.
 I have anonymized some of the information to make the process more generic:
 
+(My apologies for the bad table layout.
+I haven't learned how to properly format tables with markdown.)
+
 |Manual|Scripted|
 |:---|:---|
 |Open Service Request containing the request for deployment|Open Service Request containing the request for deployment|
@@ -41,6 +44,8 @@ This log could be obtained from the manual process, but it would require even 
 
 The accuracy of and notification from the automated release is its primary value, however it is also anywhere from 5 to 10 minutes faster considering the actions it completes. I wrote the initial version in 2012 and added the logging in 2013.
 Here are the numbers of code deployment releases by year, the estimated time saved in minutes on the low side and high side, and the low dollar cost based on a $50/hour contractor and the high dollar cost based on a $100/hour full time employee (these values are somewhat arbitrary but make the math easy):
+
+(Second apology for the table format.)
 
 |Year|ReleaseCount|Low Time|High Time|Low $|High $
 |:---:|---:|---:|---:|---:|---:|
