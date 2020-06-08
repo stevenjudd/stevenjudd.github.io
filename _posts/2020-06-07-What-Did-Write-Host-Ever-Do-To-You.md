@@ -18,7 +18,7 @@ Therefore, I present to you the following bold proclamation:
 For those of you that may have fainted at the very thought of what I just proposed, I hope you are feeling better now.
 To support this bold proclamation I present to you the following article by Mark Kraus that lays out why you should avoid the use of Write-Output:
 
-https://get-powershellblog.blogspot.com/2017/06/lets-kill-write-output.html?m=1
+<https://get-powershellblog.blogspot.com/2017/06/lets-kill-write-output.html?m=1>
 
 The TL,DR:
 Write-Output is essentially a wrapper for the Cmdlet.WriteObject() method, thus each invocation has a cost to performance.
