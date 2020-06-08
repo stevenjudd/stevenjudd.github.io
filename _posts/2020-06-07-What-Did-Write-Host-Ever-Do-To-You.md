@@ -13,7 +13,7 @@ However, there are reasons to use Write-Host, and if you have taken one of my cl
 I assume we are all on a journey to learn more and improve our skills.
 Therefore, I present to you the following bold proclamation:
 
-- Write-Output is more evil than you ever imagined Write-Host to be and should ***NEVER*** be used henceforth.
+- **Write-Output** is more evil than you ever imagined **Write-Host** to be and should ***NEVER*** be used henceforth.
 
 For those of you that may have fainted at the very thought of what I just proposed, I hope you are feeling better now.
 To support this bold proclamation I present to you the following article by Mark Kraus that lays out why you should avoid the use of Write-Output:
