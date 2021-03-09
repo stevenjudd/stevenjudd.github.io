@@ -43,7 +43,7 @@ Next is the replacement syntax. You will want to convert the URL text to the fol
 
 In other words, if the URL was stored in a variable named ```$URL```, you would use ```[$URL]($URL)``` as your replacement.
 
-You will use a RegEx capture group to put what was found by the search string back into the replacement. In RegEx, text inside parenthesis is a group construct. One of the construct types is a capture group. When you have capture groups, RegEx will create matches for the text that matches the pattern specified. The matches follow the capture groups and are numbered from left to right, unless you use a named capture group or a non-capturing group. Simple, right? Maybe not. [Here](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference#grouping-constructs) is some documentation if you really want to learn about group constructs.
+You will use a RegEx capture group to put what was found by the search string back into the replacement. In RegEx, text inside parenthesis is a group construct. One of the construct types is a capture group. When you have capture groups, RegEx will create matches for the text that matches the pattern specified. The matches follow the capture groups and are numbered from left to right, unless you use a named capture group or a non-capturing group. Simple, right? Maybe not. [Here is some documentation](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference#grouping-constructs) if you really want to learn about group constructs.
 
 Again, since the goal is to keep this simple, you will use ```(https?://.*?)( |,|$)``` as the RegEx search string. Note the addition of another set of parenthesis. Also note that there is a space before the first pipe character. There are now two capture groups in the search string.
 
@@ -51,7 +51,7 @@ Finally, you need to enter the desired output into the Replace box. A dollar sig
 
 > **Note:** you may need to use curly braces after the dollar sign if you need to add numeric values directly after the group or if you are using named capture groups. As an example, if you used ```(?<url>https?://.*?)(?: |,|$)``` as your Find string then you would use ```[${url}](${url})``` as your Replace string.
 
-Speaking of Ctrl+z, if you run the above replacement, it will mess up the output. I could have corrected this and left this part out of the post, but I wanted to show that sometimes you may overlook something or don't anticipate the results. It can happen to all of us. What I forgot was to add back in the second capture group. Thus, it was stripping off the space, comma, or EOL characters. To fix this, add ```$2``` to the end of the Replace string. Here is what the Find and Replace box looks like:
+Speaking of Ctrl+Z, if you run the above replacement, it will mess up the output. I could have corrected this and left this part out of the post, but I wanted to show that sometimes you may overlook something or don't anticipate the results. It can happen to all of us. What I forgot was to add back in the second capture group. Thus, it was stripping off the space, comma, or EOL characters. To fix this, add ```$2``` to the end of the Replace string. Here is what the Find and Replace box looks like:
 
 ![_config.yml]({{ site.baseurl }}/images/Advanced-Search-and-Replace-in-VSCode-3.png)
 
