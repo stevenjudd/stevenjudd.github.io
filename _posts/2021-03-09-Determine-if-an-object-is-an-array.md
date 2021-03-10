@@ -13,4 +13,4 @@ You can see that it has a BaseType of ```System.Array```. You can use the BaseTy
 
 Why is this important? Because different commands can return different types and you may need to code differently based on the type of result you get from a command. Adding a property to an Integer type is different than adding to a Hashtable or an Array.
 
-Here is an excellent explanation of Arrays by Kevin Marquette if you would like to learn more: [https://powershellexplained.com/2018-10-15-Powershell-arrays-Everything-you-wanted-to-know/?utm_source=blog&utm_medium=blog&utm_content=titlelink](https://powershellexplained.com/2018-10-15-Powershell-arrays-Everything-you-wanted-to-know/?utm_source=blog&utm_medium=blog&utm_content=titlelink)
+[Here is an excellent explanation](https://powershellexplained.com/2018-10-15-Powershell-arrays-Everything-you-wanted-to-know/?utm_source=blog&utm_medium=blog&utm_content=titlelink) of Arrays by Kevin Marquette if you would like to learn more.
