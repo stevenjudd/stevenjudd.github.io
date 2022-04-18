@@ -25,7 +25,7 @@ Start with the ```http``` part of the URL. Note that in the content example, the
 
 ![_config.yml]({{ site.baseurl }}/images/Advanced-Search-and-Replace-in-VSCode-2.png)
 
-> **Note:** if you enter this pattern into [https://regex101.com](https://regex101.com), it will note that "An unescaped delimiter (/) must be escaped with a backslash." VSCode does not error with these being unescaped, but regex101 is not. Adding the escape characters will not break the search for VSCode.
+> **Note:** if you enter this pattern into [https://regex101.com](https://regex101.com), it will note that "An unescaped delimiter (/) must be escaped with a backslash." VSCode does not error with these being unescaped, but regex101 will. Adding the escape characters will not break the search for VSCode.
 
 Now it gets a bit tricky. You want to get the rest of the URL but not get any extra characters. This is usually a trial and error process. You can do some searches for examples, but the results you find may be for some specification-compliant URL testing. Your URLs may not be that complicated, and you don't want to have to slog your way through a RegEx string that looks like this (especially if it doesn't work):
 
