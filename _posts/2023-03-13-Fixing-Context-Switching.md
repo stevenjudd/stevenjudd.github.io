@@ -8,6 +8,8 @@ Let me explain what I mean by telling you about a struggle that I have.
 The struggle is that once I learn something well enough for it to be something I
 do without thinking, it becomes hard for me to switch and do something else.
 
+## Story time
+
 The most recent example of this for me was when I started working at Facebook
 (now Meta).
 When you get hired you get to select your equipment for your laptop and phone.
