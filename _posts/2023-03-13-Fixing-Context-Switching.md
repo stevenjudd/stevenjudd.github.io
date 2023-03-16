@@ -98,7 +98,7 @@ using the most CPU time for two reasons:
 Yes, I stretched this a bit trying to be funny.
 However, the point is there isn't an alias for Sort-Object in Linux or MacOS.
 Sort is `/usr/bin/sort`
-(again, could be nearly anywhere based on who knows what 'cause Linux)
+(again, could be nearly anywhere based on who knows what 'cause Linux/MacOS).
 
 ## I am not changing my mind
 
