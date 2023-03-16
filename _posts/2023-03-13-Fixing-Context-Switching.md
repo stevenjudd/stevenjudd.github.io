@@ -26,8 +26,14 @@ there are no Del, Home, PgUp, PgDn keys (on the laptop),
 and there is no escaping that some shortcuts just cannot be done with one hand
 or that they are more comfortable if you use two (I'm looking at you, Undo, Cut,
 Copy, and Paste!).
-I finally gave up and got a Windows laptop, and in less than 10 hours of setup
-time within one week of regular work, I was back to being fast and efficient.
+
+You have to understand that I've been using Windows based operating systems since
+Windows 3.0 and I bothered to learn and heavily use the keyboard shortcuts for
+every OS release since.
+That is a lot of finger memory to try to overcome.
+I finally gave up and requested a Windows laptop. After it arrived, in less than
+10 hours of setup time within one week of regular work, I was back to being fast
+and efficient (and less frustrated).
 
 For those of you that started with MacOS, none of this is an issue.
 You already have it memorized.
