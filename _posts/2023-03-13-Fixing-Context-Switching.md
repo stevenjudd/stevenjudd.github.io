@@ -61,18 +61,28 @@ Of course, `dir` still worked and the new `gci` was viable as well, but `ls` is 
 It has the added bonus of working on the "big 3" operating systems.
 
 Herein lies the problem: in PowerShell, `ls` on Windows is an alias,
-whereas `ls` in PowerShell on Linux and MacOS is an Application.
+whereas `ls` in PowerShell on Linux and MacOS is an application.
 
+Windows `ls` command in PowerShell:
 ![_config.yml]({{ site.baseurl }}/images/Fixing-Context-Switching-Windows-Ls.png)
-![_config.yml]({{ site.baseurl }}/images/Fixing-Context-Switching-Linux-Ls.png)
+
+Linux `ls` command in bash"
+![_config.yml]({{ site.baseurl }}/images/Fixing-Context-Switching-Linux-Bash-Ls.png)
+
+Linux `ls` command in PowerShell"
+![_config.yml]({{ site.baseurl }}/images/Fixing-Context-Switching-Linux-Pwsh-Ls.png)
+
+When I'm working in my Windows Terminal I frequently have PowerShell, Linux via
+WSL2, and the Azure Cloud Shell open.
+![_config.yml]({{ site.baseurl }}/images/Fixing-Context-Switching-Terminal-Tabs.png)
 
 Remember my issue with context switching?
 I expect the same results when I'm in PowerShell and running the `ls` command.
 Remember that I like to shortcut like mad at the prompt?
-Even though `ps` works and returns the processes, it is not returning a
-System.Diagnostics.Process object.
-Rather, it is running /bin/ps (or, since it is Linux, it could be nearly anywhere)
-and returning plain text. Yuk!
+Even though `ps` works and returns the processes in Linux and MacOS, it is not
+returning a System.Diagnostics.Process object.
+Rather, it is running /bin/ps (or, since it is Linux or MacOS, it could be
+nearly anywhere) and returning plain text. Yuk!
 
 Of course, I could use the PowerShell-specific alias entries for these commands.
 For `ps` the alias `gps` would work fine.
