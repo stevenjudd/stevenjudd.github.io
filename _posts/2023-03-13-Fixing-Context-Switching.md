@@ -28,8 +28,9 @@ or that they are more comfortable if you use two (I'm looking at you, Undo, Cut,
 Copy, and Paste!).
 
 You have to understand that I've been using Windows based operating systems since
-Windows 3.0 and I bothered to learn and heavily use the keyboard shortcuts for
-every OS release since.
+Windows 3.0 came out.
+I even bothered to learn and heavily use the keyboard shortcuts for Windows 3.0
+and every OS release since.
 That is a lot of finger memory to try to overcome.
 I finally gave up and requested a Windows laptop. After it arrived, in less than
 10 hours of setup time within one week of regular work, I was back to being fast
