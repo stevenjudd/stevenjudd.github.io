@@ -66,14 +66,14 @@ whereas `ls` in PowerShell on Linux and MacOS is an application.
 Windows `ls` command in PowerShell:
 ![_config.yml]({{ site.baseurl }}/images/Fixing-Context-Switching-Windows-Ls.png)
 
-Linux `ls` command in bash"
+Linux `ls` command in bash:
 ![_config.yml]({{ site.baseurl }}/images/Fixing-Context-Switching-Linux-Bash-Ls.png)
 
-Linux `ls` command in PowerShell"
+Linux `ls` command in PowerShell:
 ![_config.yml]({{ site.baseurl }}/images/Fixing-Context-Switching-Linux-Pwsh-Ls.png)
 
 When I'm working in my Windows Terminal I frequently have PowerShell, Linux via
-WSL2, and the Azure Cloud Shell open.
+WSL2, and the Azure Cloud Shell open:
 ![_config.yml]({{ site.baseurl }}/images/Fixing-Context-Switching-Terminal-Tabs.png)
 
 Remember my issue with context switching?
