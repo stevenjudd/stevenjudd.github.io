@@ -153,11 +153,10 @@ It also lists the alias entries.
 I did this to remind myself that I set this up.
 It is a bit redundant, but it works for me.
 
-Now, with these alias entries in place, I can run ``ps | sort cpu` in any OS and
-get consistent results without errors.
+Now, with these alias entries in place, I can run `ps | sort cpu` from PowerShell
+in any OS and get consistent results without errors.
 
-> Bonus question for those that are curious: what happens if the output of
-`$aliasOutput` is not sorted?
+> Bonus question: what happens if the output of `$aliasOutput` is not sorted?
 
 The next shortcut I like to use is the `ll` command in Linux.
 Unfortunately, this is not available in PowerShell, nor is it always available
@@ -200,9 +199,8 @@ function ll {
 }
 ```
 
-Now, whenever I run `ll` it will return the long list content on a POSIX filesystem
-or it will return the standard file and directory contents if run on a Windows based
-system.
+Now, whenever I run `ll` it will return the long list content on Linux or MacOS
+or it will return the standard file and directory contents if run on Windows.
 Unfortunately, this function will do some odd stuff if you try to pass other
 parameters to the command.
 I could write the code to handle any additional parameters sent to the function,
