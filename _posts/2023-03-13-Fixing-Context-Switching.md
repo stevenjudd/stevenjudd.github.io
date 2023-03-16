@@ -206,5 +206,4 @@ and getting consistent results quickly and efficiently.
 
 ## Shortcut your life
 
-image for Shortcut your life
-![_config.yml]({{ site.baseurl }}/images/ShrotcutYourLife.png)
+![_config.yml]({{ site.baseurl }}/images/ShortcutYourLife.png)
