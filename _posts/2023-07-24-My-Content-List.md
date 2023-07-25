@@ -61,7 +61,7 @@ We learn about living off the land, how solving a problem can help you understan
 All this, and more, in this wisdom-infused episode.
 
 * [PowerShell and Global DevOps Summit 2022 - The Bar Sessions](https://powershellpodcast.podbean.com/e/powershell-global-devops-summit-the-bar-sessions/).
-<https://powershellpodcast.podbean.com/e/powershell-global-devops-summit-the-bar-sessions/This> episode features several conversations we captured while at the Global Summit.
+This episode features several conversations we captured while at the Global Summit.
 Ryan Richter talked to us about his experiences attending the OnRamp.
 Steven Judd talked about helping to run the remote summit, dad jokes, and music.
 Lastly, we talk with Harjit and Mick from the PowerShell news podcast, where we talk about how our podcasts came about and things we have learned and improved on since we started.
