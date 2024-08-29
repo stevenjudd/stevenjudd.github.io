@@ -6,6 +6,46 @@ title: My Content List
 What follows is a list of content where I am either featured or I simply had a small part to play.
 I hope that you find something that helps you in your journey.
 
+## PowerShell and DevOps Global Summit 2024
+
+* [How to Safely "Detonate" Suspicious Content by Steven Judd](https://www.youtube.com/watch?v=mjPUBok6VnM).
+As IT professionals, especially if we either dabble or work full-time in Digital Security, there are times when you must check to see if suspicious content is legitimate or malicious.
+This presentation will discuss and demonstrate three approaches for how to safely check the content, how to implement each approach, and the strengths and weaknesses of each approach.
+
+This talk isn't directly about PowerShell, but PowerShell will be used to speed up the setup and usage of the approaches.
+
+* [Using PowerShell to be a Linux Administrator by Steven Judd](https://www.youtube.com/watch?v=WxjpgqHBbJI)
+Is Linux one of the operating systems you must use and support?
+(Azure Cloud Shell, anyone?)
+Or maybe you want to learn Linux.
+PowerShell will help you.
+This presentation will cover how to transition from being a Windows Administrator to surviving in an organization that has zero Windows Servers.
+Come learn about some of the key differences you need to be aware of using PowerShell on Linux vs. Windows.
+It will also cover some skills that you will need to develop to work with Linux.
+Finally, it will also show you how you can take your knowledge of PowerShell and apply that to Bash, or really any other scripting language.
+
+* [Rapidly and securely manage your resources with Azure Cloud Shell](https://www.youtube.com/watch?v=Ir8DCHip3ak )
+Azure Cloud Shell is an interactive, authenticated, browser-accessible terminal for managing Azure resources.
+As a web-based environment, Cloud Shell provides immediate management access from any device with a network connection.
+Cloud Shell provides access to a range of shells/tools including bash, PowerShell, Azure PowerShell, and Azure CLI.
+Join Azure Cloud Shell PM Jason Helmick and Shell Expert Steven Judd to quickly manage resources in the cloud and on-premises with Cloud Shell's "always-up-to-date" tools - and more!
+
+* Learning PowerShell Is Like Running a Marathon
+I delivered this career-oriented talk to the OnRamp attendees at the PowerShell and DevOps Global Summit 2024.
+Unfortunately, they don't record these sessions, but I did reprise this talk for the NWA TechFest 2024 conference linked below.
+
+## NWA TechFest 2024
+
+* Learning Is Like Running a Marathon (video forthcoming)
+I gave this presentation to a group of technical professionals in the Northwest Arkansas area at the [NWA TechFest 2024 Conference](https://nwatechfest.org/conference/).
+Here is the synopsis of the talk:
+
+You don't become an experienced professional in one day.
+It takes training, a plan, repetition, setbacks, perseverance, and dedication.
+This presentation will draw similarities between the process of training for a marathon and the process of learning any skill.
+Plenty of people want to get better at a skill but don't know how to do it.
+I will draw from my experience as a runner and a lifelong learner to show how anyone can improve their skills and career.
+
 ## PowerShell and DevOps Global Summit 2023
 
 * [Taking Automation to Task by Steven Judd](https://www.youtube.com/watch?v=ZRzKn2pQhMc).
@@ -22,7 +62,12 @@ The key is to know where to put in the guardrails and/or the gatekeepers to keep
 Hyperbole?
 Watch and find out for yourself.
 
-## YouTube
+## User Groups on YouTube
+
+* [PowerShell Case Sensitivity Training](https://www.youtube.com/watch?v=xhJQB6szWFE)
+James Brundage and I presented this session to the Pacific PowerShell User Group on May 8th, 2024.
+In this presentation, we take a humorous look at some of the points where PowerShell did not handle case sensitivity in the way we were expecting or the way we were used to, specifically around cross-platform situations, but in other ways as well.
+If you have ever experienced some pain and/or frustration with case sensitivity, then join us for some Case Senitivity Training (and hopefully some laughs along with some knowledge).
 
 * [PowerShell Progression: From One-Liners to Advanced Functions with Steven Judd](https://www.youtube.com/watch?v=7oU2jushZMw).
 This is a presentation I gave to the Research Triangle PowerShell User Group (RTPSUG) about an example of the progression from a console command to a script, to a function, and finally an advanced function.
@@ -42,14 +87,28 @@ You might just be surprised by what you learn in this presentation.
 
   > UPDATE: I reprised this talk to the [Gainesville PowerShell User Group on YouTube here](https://www.youtube.com/watch?v=fqzXpdA4zCE).
 The reason I'm linking this same presentation is because I updated the Write-Debug section because I had a use case for this cmdlet that I hadn't had in the previous presentation.
-Also, there is more interaction in the RTPSUG video, so if you want the chit chat version use the first link. If you want the updated content, use the second link.
+Also, there is more interaction in the RTPSUG video, so if you want the chit chat version use the first link.
+If you want the updated content, use the second link.
+
+  > UPDATE2: I reprised this foundational talk for the [SQL Saturday Baton Rouge 2024 conference](https://sqlsaturday.com/2024-07-27-sqlsaturday1076/#schedule).
+There isn't a video of this talk, so click the links above.
+I recommend the Gainesville for the additional content and better dad joke delivery, but the RTPSUG presentation is more interactive, so pick the one that works best for you.
+In fact, watch them both.
+Since I need the watch counters to go up for my presentations, I thank you for your assistance (grin).
 
 ## Podcasts
 
 ### The PowerShell Podcast
 
+* [The PowerShell Podcast E120 PowerShell on Linux and Beyond with Steven Judd](https://www.youtube.com/watch?v=yus6Ghl7lMw)
+In this celebration-themed episode of the PowerShell Podcast, Steven Judd makes his long-awaited return.
+We announce the first PowerShell Podcast MVP winner.
+We share tips about regex and URL encoding and dive deep into PowerShell on Linux, CloudShell, and becoming a lifelong learner.
+All this and more!
+
 * [PowerShell and DevOps Global Summit - Steven Judd, PoshWolf (Anthony Howell), Phill Bossman, Dan Hill, and Geoff Schram](https://powershellpodcast.podbean.com/e/powershell-and-devops-global-summit-steve-judd-poshwolf-anthony-howell-phil-bossman-dan-hill-and-geoff-schram/).
-It is the last of the bar sessions from the PowerShell and DevOps Global Summit. We talk about everyone's experiences at Summit 2023.
+It is the last of the bar sessions from the PowerShell and DevOps Global Summit.
+We talk about everyone's experiences at Summit 2023.
 Catch our final interviews from Summit.
 (I'm the first guest.)
 
