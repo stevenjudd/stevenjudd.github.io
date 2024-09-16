@@ -11,7 +11,6 @@ I hope that you find something that helps you in your journey.
 * [How to Safely "Detonate" Suspicious Content by Steven Judd](https://www.youtube.com/watch?v=mjPUBok6VnM).
 As IT professionals, especially if we either dabble or work full-time in Digital Security, there are times when you must check to see if suspicious content is legitimate or malicious.
 This presentation will discuss and demonstrate three approaches for how to safely check the content, how to implement each approach, and the strengths and weaknesses of each approach.
-
 This talk isn't directly about PowerShell, but PowerShell will be used to speed up the setup and usage of the approaches.
 
 * [Using PowerShell to be a Linux Administrator by Steven Judd](https://www.youtube.com/watch?v=WxjpgqHBbJI)
