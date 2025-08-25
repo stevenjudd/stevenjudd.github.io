@@ -8,9 +8,9 @@ I hope that you find something that helps you in your journey.
 
 ## YouTube
 
-### Intoductory Content
+### Intoductory PowerShell Content
 
-* [The Tripod](https://youtu.be/_oFBZKzrHMg)
+* [The Tripod](https://youtu.be/_oFBZKzrHMg).
 In this video, I briefly explain and demonstrate the three PowerShell cmdlets that I use the most often.
 I think these cmdlets are so important, I nicknamed them "the tripod".
 The cmdlets are Get-Content, Get-Help, and Get-Member.
@@ -23,7 +23,7 @@ As IT professionals, especially if we either dabble or work full-time in Digital
 This presentation will discuss and demonstrate three approaches for how to safely check the content, how to implement each approach, and the strengths and weaknesses of each approach.
 This talk isn't directly about PowerShell, but PowerShell will be used to speed up the setup and usage of the approaches.
 
-* [Using PowerShell to be a Linux Administrator by Steven Judd](https://www.youtube.com/watch?v=WxjpgqHBbJI)
+* [Using PowerShell to be a Linux Administrator by Steven Judd](https://www.youtube.com/watch?v=WxjpgqHBbJI).
 Is Linux one of the operating systems you must use and support?
 (Azure Cloud Shell, anyone?)
 Or maybe you want to learn Linux.
@@ -33,7 +33,7 @@ Come learn about some of the key differences you need to be aware of using Power
 It will also cover some skills that you will need to develop to work with Linux.
 Finally, it will also show you how you can take your knowledge of PowerShell and apply that to Bash, or really any other scripting language.
 
-* [Rapidly and securely manage your resources with Azure Cloud Shell](https://www.youtube.com/watch?v=Ir8DCHip3ak )
+* [Rapidly and securely manage your resources with Azure Cloud Shell](https://www.youtube.com/watch?v=Ir8DCHip3ak).
 Azure Cloud Shell is an interactive, authenticated, browser-accessible terminal for managing Azure resources.
 As a web-based environment, Cloud Shell provides immediate management access from any device with a network connection.
 Cloud Shell provides access to a range of shells/tools including bash, PowerShell, Azure PowerShell, and Azure CLI.
@@ -45,7 +45,7 @@ Unfortunately, they don't record these sessions, but I did reprise this talk for
 
 ## NWA TechFest 2024
 
-* [Learning Is Like Running a Marathon](https://www.youtube.com/watch?v=fiexmu-1GHc)
+* [Learning Is Like Running a Marathon](https://www.youtube.com/watch?v=fiexmu-1GHc).
 I gave this presentation to a group of technical professionals in the Northwest Arkansas area at the [NWA TechFest 2024 Conference](https://nwatechfest.org/conference/).
 Here is the synopsis of the talk:
 
@@ -73,7 +73,7 @@ Watch and find out for yourself.
 
 ## User Groups on YouTube
 
-* [PowerShell Case Sensitivity Training](https://www.youtube.com/watch?v=xhJQB6szWFE)
+* [PowerShell Case Sensitivity Training](https://www.youtube.com/watch?v=xhJQB6szWFE).
 James Brundage and I presented this session to the Pacific PowerShell User Group on May 8th, 2024.
 In this presentation, we take a humorous look at some of the points where PowerShell did not handle case sensitivity in the way we were expecting or the way we were used to, specifically around cross-platform situations, but in other ways as well.
 If you have ever experienced some pain and/or frustration with case sensitivity, then join us for some Case Senitivity Training (and hopefully some laughs along with some knowledge).
@@ -109,23 +109,23 @@ Since I need the watch counters to go up for my presentations, I thank you for y
 
 ### The PowerShell Podcast
 
-* [The Dos and Don'ts of PowerShell with Steven Judd and Gilbert Sanchez](https://www.youtube.com/watch?v=e1YxqKPaajQ&t=1114s)
+* [The Dos and Don'ts of PowerShell with Steven Judd and Gilbert Sanchez](https://www.youtube.com/watch?v=e1YxqKPaajQ&t=1114s).
 In this episode of the PowerShell Podcast, we're joined bySteven JuddandGilbert Sanchez, two active
 contributors and speakers in the PowerShell community.
 We talk about the Dos and Don'ts of PowerShell.
 We cover topics like documentation, testing, community, how you should view yourself in your growth, and even get some top tips on logging from those who have done PowerShell at the highest levels.
 
-* [PowerShell Summit Bar Sessions 2025 - Steven Judd](https://www.youtube.com/watch?v=6WTIsOnT5PU)
+* [PowerShell Summit Bar Sessions 2025 - Steven Judd](https://www.youtube.com/watch?v=6WTIsOnT5PU).
 In this episode of the PowerShell Summit Bar Sessions we talk with Steven Judd.
 We talk about Summit, Sean Kearney Spirit award, community, career, and more!
 
-* [Growth, Grit, and Community with Steven Judd & Kevin Laux](https://www.youtube.com/watch?v=m1VRU-7O5XA)
+* [Growth, Grit, and Community with Steven Judd & Kevin Laux](https://www.youtube.com/watch?v=m1VRU-7O5XA).
 In this episode of the PowerShell Podcast, we sit down with Steven Judd and Kevin Laux for insights and inspiration from the PowerShell community.
 Steven shares his experiences overcoming the hurdles of live demos, recounts the highlights of PowerShell Saturday NC, and reveals the story behind his iconic bling and love for puns.
 He delves into the importance of "practice makes progress," encouraging listeners to embrace growth through consistent effort.
 Kevin Laux joins the conversation to discuss his journey with PowerShell, his role with the Research Triangle PowerShell User Group (RTPSUG), and the impact of community involvement.
 
-* [The PowerShell Podcast E120 PowerShell on Linux and Beyond with Steven Judd](https://www.youtube.com/watch?v=yus6Ghl7lMw)
+* [The PowerShell Podcast E120 PowerShell on Linux and Beyond with Steven Judd](https://www.youtube.com/watch?v=yus6Ghl7lMw).
 In this celebration-themed episode of the PowerShell Podcast, Steven Judd makes his long-awaited return.
 We announce the first PowerShell Podcast MVP winner.
 We share tips about regex and URL encoding and dive deep into PowerShell on Linux, CloudShell, and becoming a lifelong learner.
