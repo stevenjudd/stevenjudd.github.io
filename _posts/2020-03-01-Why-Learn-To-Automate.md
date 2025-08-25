@@ -28,6 +28,7 @@ Open BeyondCompare as Admin account | Open BeyondCompare as Admin account
 Run a compare against the source and destination looking for orphaned files and changed .config files. **Update** .config files as directed in the CMTool General Changes comment section | Run a compare against the source and destination looking for orphaned files and changed .config files. **Update** .config files as directed in the CMTool General Changes comment section
 Return to CMTool and mark the deployment as “deployed as instructed” | Return to CMTool and mark the deployment as “deployed as instructed”
 Return to Service Request and complete and close the request | Return to Service Request and complete and close the request
+{:.mbtablestyle}
 
 **Note**: The bolded text in the table above is a manual data entry step, which is a location where an error could be introduced to the deployment process.
 As you can see, there are many locations where the manual process has an opportunity for an error to occur.
