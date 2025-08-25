@@ -6,6 +6,16 @@ title: My Content List
 What follows is a list of content where I am either featured or I simply had a small part to play.
 I hope that you find something that helps you in your journey.
 
+## YouTube
+
+### Intoductory Content
+
+* [The Tripod](https://youtu.be/_oFBZKzrHMg)
+In this video, I briefly explain and demonstrate the three PowerShell cmdlets that I use the most often.
+I think these cmdlets are so important, I nicknamed them "the tripod".
+The cmdlets are Get-Content, Get-Help, and Get-Member.
+I provide a quick demonstration of how to use these cmdlets to find a cmdlet that updates the time zone of my PC and learn how to use this cmdlet properly, while also examining the output of one of the cmdlets.
+
 ## PowerShell and DevOps Global Summit 2024
 
 * [How to Safely "Detonate" Suspicious Content by Steven Judd](https://www.youtube.com/watch?v=mjPUBok6VnM).
@@ -35,7 +45,7 @@ Unfortunately, they don't record these sessions, but I did reprise this talk for
 
 ## NWA TechFest 2024
 
-* Learning Is Like Running a Marathon (video forthcoming)
+* [Learning Is Like Running a Marathon](https://www.youtube.com/watch?v=fiexmu-1GHc)
 I gave this presentation to a group of technical professionals in the Northwest Arkansas area at the [NWA TechFest 2024 Conference](https://nwatechfest.org/conference/).
 Here is the synopsis of the talk:
 
@@ -98,6 +108,22 @@ Since I need the watch counters to go up for my presentations, I thank you for y
 ## Podcasts
 
 ### The PowerShell Podcast
+
+* [The Dos and Don'ts of PowerShell with Steven Judd and Gilbert Sanchez](https://www.youtube.com/watch?v=e1YxqKPaajQ&t=1114s)
+In this episode of the PowerShell Podcast, we're joined bySteven JuddandGilbert Sanchez, two active
+contributors and speakers in the PowerShell community.
+We talk about the Dos and Don'ts of PowerShell.
+We cover topics like documentation, testing, community, how you should view yourself in your growth, and even get some top tips on logging from those who have done PowerShell at the highest levels.
+
+* [PowerShell Summit Bar Sessions 2025 - Steven Judd](https://www.youtube.com/watch?v=6WTIsOnT5PU)
+In this episode of the PowerShell Summit Bar Sessions we talk with Steven Judd.
+We talk about Summit, Sean Kearney Spirit award, community, career, and more!
+
+* [Growth, Grit, and Community with Steven Judd & Kevin Laux](https://www.youtube.com/watch?v=m1VRU-7O5XA)
+In this episode of the PowerShell Podcast, we sit down with Steven Judd and Kevin Laux for insights and inspiration from the PowerShell community.
+Steven shares his experiences overcoming the hurdles of live demos, recounts the highlights of PowerShell Saturday NC, and reveals the story behind his iconic bling and love for puns.
+He delves into the importance of "practice makes progress," encouraging listeners to embrace growth through consistent effort.
+Kevin Laux joins the conversation to discuss his journey with PowerShell, his role with the Research Triangle PowerShell User Group (RTPSUG), and the impact of community involvement.
 
 * [The PowerShell Podcast E120 PowerShell on Linux and Beyond with Steven Judd](https://www.youtube.com/watch?v=yus6Ghl7lMw)
 In this celebration-themed episode of the PowerShell Podcast, Steven Judd makes his long-awaited return.
