@@ -6,7 +6,7 @@ title: My Content List
 What follows is a list of content where I am either featured or I simply had a small part to play.
 I hope that you find something that helps you in your journey.
 
-## YouTube
+## YouTube {#youtube}
 
 ### Intoductory PowerShell Content
 
@@ -43,7 +43,7 @@ Join Azure Cloud Shell PM Jason Helmick and Shell Expert Steven Judd to quickly 
 I delivered this career-oriented talk to the OnRamp attendees at the PowerShell and DevOps Global Summit 2024.
 Unfortunately, they don't record these sessions, but I did reprise this talk for the NWA TechFest 2024 conference linked below.
 
-## NWA TechFest 2024
+## NWA TechFest 2024 {nwa}
 
 * [Learning Is Like Running a Marathon](https://www.youtube.com/watch?v=fiexmu-1GHc).
 I gave this presentation to a group of technical professionals in the Northwest Arkansas area at the [NWA TechFest 2024 Conference](https://nwatechfest.org/conference/).
@@ -55,7 +55,7 @@ This presentation will draw similarities between the process of training for a m
 Plenty of people want to get better at a skill but don't know how to do it.
 I will draw from my experience as a runner and a lifelong learner to show how anyone can improve their skills and career.
 
-## PowerShell and DevOps Global Summit 2023
+## PowerShell and DevOps Global Summit 2023 {powershell}
 
 * [Taking Automation to Task by Steven Judd](https://www.youtube.com/watch?v=ZRzKn2pQhMc).
 The Windows Task Scheduler is used to automate tasks.
@@ -71,7 +71,7 @@ The key is to know where to put in the guardrails and/or the gatekeepers to keep
 Hyperbole?
 Watch and find out for yourself.
 
-## User Groups on YouTube
+## User Groups on YouTube {youtube}
 
 * [PowerShell Case Sensitivity Training](https://www.youtube.com/watch?v=xhJQB6szWFE).
 James Brundage and I presented this session to the Pacific PowerShell User Group on May 8th, 2024.
@@ -105,9 +105,15 @@ I recommend the Gainesville for the additional content and better dad joke deliv
 In fact, watch them both.
 Since I need the watch counters to go up for my presentations, I thank you for your assistance (grin).
 
-## Podcasts
+## Podcasts {podcasts}
 
 ### The PowerShell Podcast
+
+* [Falling, Learning, and Laughing with PowerShell Friends](https://www.youtube.com/watch?v=UrsbTkR6jg8).
+Recorded live from SpiceWorld 2025 in Austin, Texas, this special PowerShell Podcast bar session brings together community members Jeffery Hayes, Stephen Engler, Sean Wheeler, and Steven Judd for a fun and insightful celebration of PowerShell and community. Host Andrew Pla reflects on reaching the 200-episode milestone while sharing stories about growth, learning, and the value of connection. From early PowerShell journeys to the power of conferences, mentorship, and even a few bar-side life lessons, this lively session captures the heart of the PowerShell community.
+
+* [Beginnings, Blue Bars, and the Valley of Despair with Steven Judd](https://www.youtube.com/watch?v=yu6RVPwp8KY).
+In this episode, host Andrew Pla welcomes back Steven Judd, Microsoft MVP, teacher, and longtime community contributor. Together, they dive into the theme of beginnings, from starting careers in IT, to first encounters with PowerShell, and the importance of resilience while navigating the "valley of despair" in learning. Steven shares his journey from music and business studies into technology, where curiosity, persistence, and a willingness to read the manuals shaped his career. The conversation also explores how community, conferences, and friendships have been essential to Steven's growth. From humorous "please clap" moments at Nano Conf to building lasting connections, Steven highlights the power of showing up authentically, persevering through challenges, and helping others along the way
 
 * [The Dos and Don'ts of PowerShell with Steven Judd and Gilbert Sanchez](https://www.youtube.com/watch?v=e1YxqKPaajQ&t=1114s).
 In this episode of the PowerShell Podcast, we're joined bySteven JuddandGilbert Sanchez, two active
