@@ -6,9 +6,19 @@ title: My Content List
 What follows is a list of content where I am either featured or I simply had a small part to play.
 I hope that you find something that helps you in your journey.
 
-## [YouTube] {#youtube}
+## Jump to Section
 
-### Intoductory PowerShell Content
+- [YouTube](#youtube)
+- [PowerShell and DevOps Global Summit 2024](#summit)
+- [NWA TechFest 2024](#nwa)
+- [PowerShell and DevOps Global Summit 2023](#powershell)
+- [User Groups on YouTube](#usergroups)
+- [Podcasts](#podcasts)
+- [Books](#books)
+
+## YouTube {#youtube}
+
+### Introductory PowerShell Content
 
 * [The Tripod](https://youtu.be/_oFBZKzrHMg).
 In this video, I briefly explain and demonstrate the three PowerShell cmdlets that I use the most often.
@@ -16,7 +26,7 @@ I think these cmdlets are so important, I nicknamed them "the tripod".
 The cmdlets are Get-Content, Get-Help, and Get-Member.
 I provide a quick demonstration of how to use these cmdlets to find a cmdlet that updates the time zone of my PC and learn how to use this cmdlet properly, while also examining the output of one of the cmdlets.
 
-## [PowerShell and DevOps Global Summit 2024] {summit}
+## PowerShell and DevOps Global Summit 2024 {summit}
 
 * [How to Safely "Detonate" Suspicious Content by Steven Judd](https://www.youtube.com/watch?v=mjPUBok6VnM).
 As IT professionals, especially if we either dabble or work full-time in Digital Security, there are times when you must check to see if suspicious content is legitimate or malicious.
@@ -43,7 +53,7 @@ Join Azure Cloud Shell PM Jason Helmick and Shell Expert Steven Judd to quickly 
 I delivered this career-oriented talk to the OnRamp attendees at the PowerShell and DevOps Global Summit 2024.
 Unfortunately, they don't record these sessions, but I did reprise this talk for the NWA TechFest 2024 conference linked below.
 
-## [NWA TechFest 2024] {nwa}
+## NWA TechFest 2024 {nwa}
 
 * [Learning Is Like Running a Marathon](https://www.youtube.com/watch?v=fiexmu-1GHc).
 I gave this presentation to a group of technical professionals in the Northwest Arkansas area at the [NWA TechFest 2024 Conference](https://nwatechfest.org/conference/).
@@ -55,7 +65,7 @@ This presentation will draw similarities between the process of training for a m
 Plenty of people want to get better at a skill but don't know how to do it.
 I will draw from my experience as a runner and a lifelong learner to show how anyone can improve their skills and career.
 
-## [PowerShell and DevOps Global Summit 2023] {powershell}
+## PowerShell and DevOps Global Summit 2023 {powershell}
 
 * [Taking Automation to Task by Steven Judd](https://www.youtube.com/watch?v=ZRzKn2pQhMc).
 The Windows Task Scheduler is used to automate tasks.
@@ -71,7 +81,7 @@ The key is to know where to put in the guardrails and/or the gatekeepers to keep
 Hyperbole?
 Watch and find out for yourself.
 
-## [User Groups on YouTube] {youtube}
+## User Groups on YouTube {usergroups}
 
 * [PowerShell Case Sensitivity Training](https://www.youtube.com/watch?v=xhJQB6szWFE).
 James Brundage and I presented this session to the Pacific PowerShell User Group on May 8th, 2024.
@@ -105,7 +115,7 @@ I recommend the Gainesville for the additional content and better dad joke deliv
 In fact, watch them both.
 Since I need the watch counters to go up for my presentations, I thank you for your assistance (grin).
 
-## [Podcasts] {podcasts}
+## Podcasts {podcasts}
 
 ### The PowerShell Podcast
 
@@ -162,7 +172,7 @@ Lastly, we talk with Harjit and Mick from the PowerShell news podcast, where we 
 * [Episode 057 - Interview with Steven Judd](https://powershellnews.podbean.com/e/episode-057-interview-with-steven-judd/).
 Mick Pletcher interviews me at the PowerShell and DevOps Global Summit 2023 about what it is like being a speaker and an attendee at a PowerShell event.
 
-## [Books] {books}
+## Books {books}
 
 * [Modern IT Automation with PowerShell](https://www.amazon.com/Modern-Automation-PowerShell-Michael-Zanatta/dp/B0BSC55Y8N/ref=sr_1_1?keywords=modern+it+automation+with+powershell&qid=1690268837&sprefix=modern+it+au%2Caps%2C122&sr=8-1).
 Role: Senior Editor.
